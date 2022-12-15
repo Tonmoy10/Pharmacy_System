@@ -1,0 +1,33 @@
+body {
+  background-color: #ffd3d3;
+  margin-top: 130px;
+  font-size: 20px;
+  font-family: Calibri;
+}
+
+.link, .link:visited{
+  color:#b30000;
+  font-size:20px;
+  margin-top: 10px;
+  text-decoration: underline transparent;
+}
+.link:hover{
+  color:white;
+  background-color: #7d1a1a;
+  padding: 4px;
+  border-radius: 15px;
+
+}
+
+.head {
+  margin-top: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #ffb3b3;
+  color: #0f0f0f;
+  padding: 10px;
+  font-family: calibri;
+}
